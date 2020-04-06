@@ -2,6 +2,7 @@
 
 ```
 sudo apt install -y git vim xclip
+echo 'nnoremap <F3> :.w !bash<CR>' > ~/.vimrc
 ssh-keygen
 ```
 
