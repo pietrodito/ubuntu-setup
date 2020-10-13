@@ -1,8 +1,7 @@
 # ubuntu-setup
 
 ```
-sudo apt install -y git vim xclip
-echo 'nnoremap <F3> :.w !bash<CR>' > ~/.vimrc
+sudo apt install -y git xclip
 ssh-keygen
 ```
 
